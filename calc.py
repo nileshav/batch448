@@ -1,3 +1,3 @@
 def add(a,b):
-    pass:wq
+    return a + b
 
