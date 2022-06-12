@@ -1,4 +1,5 @@
 def add(a,b):
     return (a + b)
 
-echo "Modification Done."
+def sub(a,b):
+    return (a - b)
